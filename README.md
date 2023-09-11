@@ -3,7 +3,7 @@
 <p align="center">Passionate Computer engineer and recent graduate Looking For Opportunities</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhavendra-panchal-7425b81a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="https://www.linkedin.com/in/bhavendra-panchal-7425b81a4"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="bhaven" /></a>
 <!--   <a href="mailto:johndoe@email.com"><img src="https://img.shields.io/badge/Email-Contact-red"></a> -->
 </p>
 
@@ -16,10 +16,14 @@
 
 ## 👨‍💻 Skills and Technologies
 
-- **Languages**: JavaScript, Python, Java
-- **Web Development**: HTML, CSS, React, Node.js
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools & Frameworks**: Git, Redux, Express.js
+- 💻 [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🌐 [**React**](https://reactjs.org/)
+- 🚀 [**Node.js**](https://nodejs.org/)
+- 📊 [**MongoDB**](https://www.mongodb.com/)
+- 🔧 [**Git**](https://git-scm.com/)
+- 🔄 [**Redux**](https://redux.js.org/)
+- ⚙️ [**Express.js**](https://expressjs.com/)
+- 🐳 [**Docker**](https://www.docker.com/)
 
 
 ## 🌟 Free Time
