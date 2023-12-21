@@ -24,10 +24,11 @@
 - 🔄 [**Redux**](https://redux.js.org/)
 - ⚙️ [**Express.js**](https://expressjs.com/)
 - 🐳 [**Docker**](https://www.docker.com/)
+- 🔄 [**Apollo GraphQL**](https://www.apollographql.com/docs/)
 
 
 ## 🌟 Free Time
-
-- I'm an avid hiker and explores mountains
-
+- Sometimes I sleep
+- Mostly I'm an avid traveller and explores places
+  
 ## Feel free to explore my repositories and connect with me. Let's collaborate and make awesome things together! 😄
