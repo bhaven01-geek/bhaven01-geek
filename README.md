@@ -124,10 +124,6 @@ I'm eager to collaborate on:
 -   Building intelligent automation tools for CCaaS or enterprise applications.
 -   Anything that pushes the boundaries of AI and human-computer interaction!
 
-## 🌱 What I'm Learning Next
-
--   [Mention a new technology or concept you are exploring, e.g., Advanced techniques in LLM fine-tuning, specific MLOps practices for AI models, or another AI framework.]
-
 ## ✨ In My Free Time
 
 When I'm not immersed in code and AI, you can find me:
@@ -142,5 +138,5 @@ When I'm not immersed in code and AI, you can find me:
   📫 Let's connect and build something amazing together! Feel free to reach out.
 </p>
 <p align="center">
-  You can find my work on my repositories or connect with me on <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a>.
+  You can find my work on my repositories or connect with me on <a href="https://www.linkedin.com/in/bhavendra-panchal-7425b81a4">LinkedIn</a>.
 </p>
