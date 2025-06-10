@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🚀 Senior Conversational AI Engineer | Transforming Interactions with Intelligent Voice & Text Agents 🗣️💬
+  🚀 Software Engineer | Transforming Interactions with Intelligent Voice & Text Agents 🗣️💬
 </p>
 
 ---
