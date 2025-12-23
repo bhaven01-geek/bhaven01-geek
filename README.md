@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Bhavendra</h1>
+<h1 align="center">Hey Folks! 👋 I'm Bhavendra</h1>
 
 <p align="center"><a href="https://komarev.com/ghpvc/?username=bhaven01-geek&label=Profile%20Views&color=0e75b6&style=flat"><img src="https://komarev.com/ghpvc/?username=bhaven01-geek&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
     
